@@ -1,0 +1,7 @@
+#以下是用于配置ignore文件的
+*.sdf
+*.opensdf
+*.ipch
+/ipch/   #忽略ipch目录下的全部文件
+/Debug/
+GProjectDemo2/Debug/
